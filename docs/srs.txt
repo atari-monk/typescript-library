@@ -1,0 +1,27 @@
+Project typescript-library S R S.
+
+Project and repository name: typescript-library.
+
+A minimal project template for building TypeScript libraries.
+
+Designed to be a clean starting point for any project, for example, a simple game engine.
+
+Keeps the codebase minimal and focused on setup.
+
+Avoids unnecessary dependencies.
+
+Ensures clean and predictable build output.
+
+Uses pnpm as the package manager.
+
+Uses tsup as the bundler.
+
+Fully configured TypeScript setup for library builds.
+
+Outputs E S M compatible builds suitable for npm.
+
+Ready for npm publishing out of the box.
+
+Exports a simple hello function as an example.
+
+One-sentence description in English for README.
