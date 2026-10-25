@@ -42,8 +42,7 @@ touch README.md
     "dev": "tsup --watch",
     "clean": "rm -rf dist"
   },
-  "keywords": [],
-  "license": "MIT"
+  "keywords": []
 }
 ```
 
